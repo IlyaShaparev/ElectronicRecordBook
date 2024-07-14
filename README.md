@@ -1,4 +1,4 @@
-# Electronic Academic Perfomance Book (ELAP)
+# Electronic Record Book (ERB)
 
 ### :mag: About Project
 
