@@ -13,7 +13,7 @@
 
 This project is not finished and soon I plan to add a Backend part for it in the form of databases. The site is deployed on Github Pages. And you can read it at the link.
 
-<div align="center"><a href="https://ilyashaparev.github.io/"><p> :point_right: DEMO REVIEW :point_left: </p></a></div>
+<div align="center"><a href="https://ilyashaparev.github.io/ElectronicRecordBook/"><p> :point_right: DEMO REVIEW :point_left: </p></a></div>
 
 :exclamation: It is enough to specify one character in the authorization fields (:warning: Attention: Do not leave these fields empty when clicking the "Continue" button).
 
